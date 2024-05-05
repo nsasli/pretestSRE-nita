@@ -3,7 +3,7 @@ services:
   web:
     build:
       context: .
-      dockerfile: challenge-2/your-answer.Dockerfile
+      dockerfile: challenge-2/Dockerfile
     ports:
       - "8080:80"
 
