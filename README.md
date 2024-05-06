@@ -1,6 +1,7 @@
 # pretestSRE-nita
 
-Challenge 2
-di challenge 2, tugas saya adalah membuat Dockerfile untuk sebuah aplikasi web sederhana menggunakan nginx sebagai web servernya. Saya membuat Dockerfile yang membuild image docker yang menjalankan server nginx dan menyalin konfigurasi nginx beserta file index.html. Saya juga mengatasi beberapa kesalahan dalam proses pembuatan image Docker, seperti kesalahan penamaan repository dan kesalahan dalam Dockerfile.
+=======
 
-Setelah itu, saya menjalankan kontainer Docker dari image yang dibuat, dan mengakses server web Nginx melalui localhost dan port yang ditentukan. 
+Screenshot Challenge 2 
+<img width="1354" alt="image" src="https://github.com/nsasli/pretestSRE-nita/assets/47415483/33573454-bf40-42cf-baaf-4fe1db453432">
+>>>>>>> c96f668ac5981a046c149ee501af83f181e52be1
